@@ -8,7 +8,8 @@ function App() {
 
   return (
     <div>
-      <Navbar/>
+      <Navbar />
+        <div className="text-center bg-yellow-400 text-sm m-0">{"This is a personal project with the purpose of continuing to learn and grow as a developer... Thank you for visiting, We are currently Under Construction, Please visit again Soon"}</div>
 
       <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
         <History />
