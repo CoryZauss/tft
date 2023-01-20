@@ -4,6 +4,7 @@ import './styles/tailwind.css'
 import History from './components/History.jsx'
 import Navbar from './components/Navbar.jsx'
 import Footer from './components/Footer.jsx'
+import Comps from './components/Comps.jsx'
 
 function App() {
 
